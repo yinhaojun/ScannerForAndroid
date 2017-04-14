@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScannerForAndroid.iml" filepath="$PROJECT_DIR$/ScannerForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner_core/barcodescanner_core.iml" filepath="$PROJECT_DIR$/barcodescanner_core/barcodescanner_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner_zbar/barcodescanner_zbar.iml" filepath="$PROJECT_DIR$/barcodescanner_zbar/barcodescanner_zbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcodescanner_zxing/barcodescanner_zxing.iml" filepath="$PROJECT_DIR$/barcodescanner_zxing/barcodescanner_zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bga_core/bga_core.iml" filepath="$PROJECT_DIR$/bga_core/bga_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bga_zbar/bga_zbar.iml" filepath="$PROJECT_DIR$/bga_zbar/bga_zbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bga_zxing/bga_zxing.iml" filepath="$PROJECT_DIR$/bga_zxing/bga_zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scannerlibrary/scannerlibrary.iml" filepath="$PROJECT_DIR$/scannerlibrary/scannerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing_core/zxing_core.iml" filepath="$PROJECT_DIR$/zxing_core/zxing_core.iml" />
+    </modules>
+  </component>
+</project>

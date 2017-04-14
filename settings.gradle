@@ -1,0 +1,7 @@
+include ':app', ':scannerlibrary', ':zxing', ':zxing_core',
+        'barcodescanner_core',
+        'barcodescanner_zxing',
+        'barcodescanner_zbar',
+        'bga_core',
+        'bga_zbar',
+        'bga_zxing'
